@@ -26,9 +26,7 @@ No gimmicks. No fake scripts. Just real progress.
 
 ## 🧠 Philosophy
 
-> “If it’s on GitHub, it should mean something.”
-
-Every commit created by DailyLogger represents:
+Every commit created by **DailyLogger** represents:
 - A real learning session
 - A real thought
 - A real day of progress
@@ -72,9 +70,23 @@ cd dailylogger
 npm install
 npx electron .
 ```
-
-
 ---
+
+## 🔗 Configure Git Remote (Important)
+
+DailyLogger pushes commits to the current Git repository.
+Before using the app, make sure the project is connected to your own GitHub repository.
+
+- Step 1: Create a GitHub repository
+
+      Create an empty repository on GitHub (public or private).
+
+- Step 2: Add the remote URL
+
+From the project root, run:
+```
+git remote add origin <your-github-repo-url>
+```
 
 ## 📝 How It Works
 
