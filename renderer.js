@@ -6,7 +6,7 @@ document.getElementById('save-note').addEventListener('click', async () => {
 
   // For simplicity, let's assume we're committing to a file called `daily-log.txt`
   const fs = require('fs');
-  fs.appendFileSync('daily-log.txt', `\n${new Date().toISOString()}: ${note}`);
+  fs.appendFileSync('daily-log.txt', `\n${new Date().toLocaleString()}: ${note}`);
 
   try {
     // Add, commit, and push changes
