@@ -59,15 +59,7 @@ If someone inspects your commits, they’ll find **actual notes**, not noise.
 
 ## 📂 Project Structure
 
-dailylogger/
-│
-├── main.js # Electron main process
-├── index.html # UI layout
-├── renderer.js # UI logic + Git integration
-├── daily-log.txt # Local daily logs (ignored if needed)
-├── .gitignore
-├── package.json
-└── README.md
+![DailyLogger project structure](images/project-structure.png)
 
 ---
 
