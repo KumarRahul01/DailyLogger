@@ -1,0 +1,10 @@
+
+2026-01-01T16:43:09.767Z: Testing the logger application
+2026-01-01T16:44:52.018Z: Testing window 2
+1/1/2026, 10:21:21 PM: Testing 3
+1/4/2026, 9:47:54 PM: Testing Project
+
+1/4/2026, 9:49:23 PM: Hi
+1/4/2026, 9:50:30 PM: hi
+1/4/2026, 9:54:02 PM: Tetsing Logs Hiiden
+1/4/2026, 9:57:51 PM: Tetsing Logs Hiiden
