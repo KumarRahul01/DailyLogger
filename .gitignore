@@ -19,7 +19,3 @@ out
 .env.test.local
 .env.production.local
 
-
-# Ignore the .txt
-
-daily-log.txt

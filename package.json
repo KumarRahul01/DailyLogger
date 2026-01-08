@@ -2,19 +2,36 @@
   "name": "dailylogger",
   "version": "1.0.0",
   "main": "main.js",
+  "type": "commonjs",
+  "description": "Daily developer logging app",
+  "author": "Rahul Kumar",
+  "license": "MIT",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron .",
+    "build": "electron-builder"
   },
   "keywords": [
     "DailyLogger",
     "Productivity Tool"
   ],
-  "author": "Rahul Kumar",
-  "license": "MIT",
-  "type": "commonjs",
-  "description": "",
   "dependencies": {
-    "electron": "^39.2.7",
     "simple-git": "^3.30.0"
+  },
+  "devDependencies": {
+    "electron": "^39.2.7",
+    "electron-builder": "^25.0.0"
+  },
+  "build": {
+    "appId": "com.rahul.dailylogger",
+    "productName": "DailyLogger",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "**/*"
+    ],
+    "win": {
+      "target": "nsis"
+    }
   }
 }
