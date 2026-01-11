@@ -24,3 +24,4 @@ Revised MySql Concept
 1/8/2026, 11:03:21 PM: Revise MySql and practice some questions
 
 1/11/2026, 11:00:38 PM: Solved Leetcode 1 question
+1/11/2026, 11:00:41 PM: Solved Leetcode 1 question
