@@ -25,3 +25,4 @@ Revised MySql Concept
 
 1/11/2026, 11:00:38 PM: Solved Leetcode 1 question
 1/11/2026, 11:00:41 PM: Solved Leetcode 1 question
+1/11/2026, 11:02:08 PM: Solved ND, Leetcode problems and try to be consistent.
