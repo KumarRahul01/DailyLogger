@@ -104,11 +104,5 @@ If it helps others build better habits — that’s a bonus.
 
 Feel free to fork, modify, or adapt it to your own workflow.
 
-
-## 📜 License
-
-MIT License – use it, modify it, learn from it.
-
-
 Happy logging ✨
 Build. Learn. Commit.
