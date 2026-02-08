@@ -51,7 +51,7 @@ If someone inspects your commits, they’ll find **actual notes**, not noise.
 - 📂 Automatically append logs to a file
 - 🔁 Git add → commit → push (one click)
 - 📈 Keeps GitHub contribution graph active
-- 🧘 Minimal and distraction-free
+
 
 ---
 
